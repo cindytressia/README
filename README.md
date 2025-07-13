@@ -3,7 +3,7 @@ My name is Cindy Trissia Fania.
 I am a graduate of the Informatics Management Department of Sriwijaya State Polytechnic.
 
 🌱 My current focus is Front-End Web Development  
-📫 How to reach me: cindy.trissiafania@gmail.com
+📫 How to reach me: cindytressiaa@gmail.com
 
 
 
